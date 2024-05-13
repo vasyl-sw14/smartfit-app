@@ -1,0 +1,3 @@
+# SmartFit
+
+Bachelor Thesis Project
